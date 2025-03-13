@@ -1,0 +1,3 @@
+Criar uma branch = git branch nome-da-branch (sem espaços, acentos, nomes objetivos)
+Listar as branches existentes = git branch
+Entrar em uma branch = git checout nome-da-branch
