@@ -1,0 +1,9 @@
+Criar uma branch = git branch nome-da-branch (sem espaços, acentos, nomes objetivos)
+Listar as branches existentes = git branch
+Entrar em uma branch = git checkout nome-da-branch
+Dar push em uma branch = git push origin nome-da-branch
+Criar branch e já entrar nela = git checkout -b nome-da-branch
+
+Mesclar branches
+git checkout master
+git merge nome-da-branch
